@@ -1,0 +1,5 @@
+1.Females spend more per purchase than males.
+
+2.Players under the age of 10 spend more than any other age group per purchase.
+
+3.The older a player gets, the more purchases he makes... until age 25.  Then it's the older he gets the less he purchases.  
